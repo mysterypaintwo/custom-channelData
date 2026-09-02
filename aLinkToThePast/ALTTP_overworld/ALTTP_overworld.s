@@ -826,237 +826,237 @@ musALTTP_overworldChannel6:
 
 ; Measure 1-3
 .rept 3
-    vol 9
+    vol 7
     beat HIT T1
-    vol 5
+    vol 4
     beat HIT T2
     vol 2
     beat HIT T3
     beat HIT T4
-    vol 3
+    vol 2
     beat HIT T5
     beat HIT T6
-    vol 4
+    vol 3
     beat HIT T7
     beat HIT T8
-    vol 5
+    vol 4
     beat HIT T1
-    vol 6
+    vol 5
     beat HIT T2
     beat HIT T3
-    vol 7
+    vol 6
     beat HIT T4
-    vol 8
+    vol 6
     beat HIT T5
     beat HIT T6
-    vol 9
+    vol 7
     beat HIT T7
     beat HIT T8
-    vol 9
+    vol 7
     beat HIT Q
     beat HIT R1
     beat HIT R2
     beat HIT R3
 .endr
 ; Measure 4
-    vol 10
-    beat HIT Q
-    vol 9
-    beat HIT Q
     vol 8
     beat HIT Q
-    vol 9
+    vol 7
+    beat HIT Q
+    vol 6
+    beat HIT Q
+    vol 7
     beat HIT E1
-    vol 8
+    vol 6
     beat HIT E2
 musALTTP_overworldChannel6Measure5Loop:
 .rept 7
 ; Measure 5-11
-    vol 10
+    vol 8
     beat HIT Q
-    vol 9
+    vol 7
     beat HIT R1
     beat HIT R2
-    vol 6
+    vol 5
     beat HIT R3
-    vol 9
+    vol 7
     beat HIT E1
-    vol 6
+    vol 5
     beat HIT E2
-    vol 4
+    vol 3
     beat HIT S1
-    vol 6
+    vol 5
     beat HIT S2
-    vol 8
+    vol 6
     beat HIT S3
-    vol 9
+    vol 7
     beat HIT S4
 .endr
 ; Measure 12
-    vol 9
-    beat HIT E1
-    vol 6
-    beat HIT S3
-    beat HIT S4
-    vol 9
-    beat HIT E1
-    vol 6
-    beat HIT S3
-    beat HIT S4
-    vol 9
-    beat HIT E1
-    vol 6
-    beat HIT S3
-    beat HIT S4
-    vol 9
-    beat HIT S1
     vol 7
-    beat HIT S2
-    vol 8
+    beat HIT E1
+    vol 5
     beat HIT S3
-    vol 9
+    beat HIT S4
+    vol 7
+    beat HIT E1
+    vol 5
+    beat HIT S3
+    beat HIT S4
+    vol 7
+    beat HIT E1
+    vol 5
+    beat HIT S3
+    beat HIT S4
+    vol 7
+    beat HIT S1
+    vol 6
+    beat HIT S2
+    vol 6
+    beat HIT S3
+    vol 7
     beat HIT S4
 ; Measure 13-16
 .rept 4
-    vol 10
+    vol 8
     beat HIT Q
-    vol 9
+    vol 7
     beat HIT R1
     beat HIT R2
-    vol 6
+    vol 5
     beat HIT R3
-    vol 9
+    vol 7
     beat HIT E1
-    vol 6
+    vol 5
     beat HIT E2
-    vol 4
+    vol 3
     beat HIT S1
-    vol 6
+    vol 5
     beat HIT S2
-    vol 8
+    vol 6
     beat HIT S3
-    vol 9
+    vol 7
     beat HIT S4
 .endr
 ; Measure 17
-    vol 10
+    vol 8
     beat HIT S1
-    vol 9
-    beat HIT S2
     vol 7
+    beat HIT S2
+    vol 6
     beat HIT S3
+    vol 3
+    beat HIT S4
     vol 4
-    beat HIT S4
+    beat HIT S1
     vol 5
-    beat HIT S1
-    vol 6
     beat HIT S2
-    vol 7
+    vol 6
     beat HIT S3
-    vol 8
+    vol 6
     beat HIT S4
-    vol 9
+    vol 7
     beat CRASH Q
-	vol 4
+	vol 3
     beat HIT S1
-    vol 6
+    vol 5
     beat HIT S2
-    vol 8
+    vol 6
     beat HIT S3
-    vol 9
+    vol 7
     beat HIT S4
 ; Measure 18
-    vol 10
+    vol 8
     beat HIT Q
-    vol 9
+    vol 7
     beat HIT R1
     beat HIT R2
-    vol 6
+    vol 5
     beat HIT R3
-    vol 9
+    vol 7
     beat HIT E1
-    vol 6
+    vol 5
     beat HIT E2
-    vol 4
+    vol 3
     beat HIT S1
-    vol 6
+    vol 5
     beat HIT S2
-    vol 8
+    vol 6
     beat HIT S3
-    vol 9
+    vol 7
     beat HIT S4
 ; Measure 19
-    vol 10
+    vol 8
     beat HIT S1
-    vol 9
-    beat HIT S2
     vol 7
+    beat HIT S2
+    vol 6
     beat HIT S3
+    vol 3
+    beat HIT S4
     vol 4
-    beat HIT S4
+    beat HIT S1
     vol 5
-    beat HIT S1
-    vol 6
     beat HIT S2
-    vol 7
+    vol 6
     beat HIT S3
-    vol 8
+    vol 6
     beat HIT S4
-    vol 9
+    vol 7
     beat CRASH Q
-	vol 4
+	vol 3
     beat HIT S1
-    vol 6
+    vol 5
     beat HIT S2
-    vol 8
+    vol 6
     beat HIT S3
-    vol 9
+    vol 7
     beat HIT S4
 ; Measure 18-21
 .rept 4
-    vol 9
+    vol 7
     beat HIT Q
-    vol 9
+    vol 7
     beat HIT R1
     beat HIT R2
-    vol 6
+    vol 5
     beat HIT R3
-    vol 9
+    vol 7
     beat HIT E1
-    vol 6
+    vol 5
     beat HIT E2
-    vol 4
+    vol 3
     beat HIT S1
-    vol 6
+    vol 5
     beat HIT S2
-    vol 8
+    vol 6
     beat HIT S3
-    vol 9
+    vol 7
     beat HIT S4
 .endr
 ; Measure 22
-    vol 9
-    beat HIT E1
-    vol 6
-    beat HIT S3
-    beat HIT S4
-    vol 9
-    beat HIT E1
-    vol 6
-    beat HIT S3
-    beat HIT S4
-    vol 9
-    beat HIT E1
-    vol 6
-    beat HIT S3
-    beat HIT S4
-    vol 9
-    beat HIT S1
     vol 7
-    beat HIT S2
-    vol 8
+    beat HIT E1
+    vol 5
     beat HIT S3
-    vol 9
+    beat HIT S4
+    vol 7
+    beat HIT E1
+    vol 5
+    beat HIT S3
+    beat HIT S4
+    vol 7
+    beat HIT E1
+    vol 5
+    beat HIT S3
+    beat HIT S4
+    vol 7
+    beat HIT S1
+    vol 6
+    beat HIT S2
+    vol 6
+    beat HIT S3
+    vol 7
     beat HIT S4
     goto musALTTP_overworldChannel6Measure5Loop
     cmdff
