@@ -373,7 +373,7 @@ musALTTP_overworldChannel0Measure4aLoop:
     octaveu
     env $0 $02
     beat d S4
-    beat d S1 ds S2 f S3 fs S4
+    beat d S1 ds S2 f S3 g S4
 ; Measure 6
     env $0 $07
     beat gs E1+S3
@@ -490,7 +490,7 @@ musALTTP_overworldChannel0Measure4aLoop:
     octaveu
     env $0 $02
     beat d S4
-    beat d S1 ds S2 f S3 fs S4
+    beat d S1 ds S2 f S3 g S4
 ; Measure 14 (copy of M6)
     env $0 $07
     beat gs E1+S3
