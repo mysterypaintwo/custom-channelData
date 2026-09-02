@@ -821,8 +821,8 @@ musALTTP_overworldChannel4Measure4Loop:
 musALTTP_overworldChannel6:
     .redefine HI_VOL $4
     .redefine LO_VOL $3
-    .redefine HIT $26
-    .redefine CRASH $27
+    .redefine HIT $27
+    .redefine CRASH $2e
 
 ; Measure 1-3
 .rept 3
